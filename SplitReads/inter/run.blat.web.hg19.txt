@@ -1,0 +1,3 @@
+gfClient -out=pslx localhost 9008 "" candidates.uniq.fa stdout > candidates.uniq.sam
+
+> gfClient -out=pslx localhost 9006 "" candidates.uniq.fa stdout > candidates.uniq.sam

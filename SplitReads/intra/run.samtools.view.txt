@@ -1,0 +1,4 @@
+> Look for reads mapping in the candidate genes (coordinates from callingGENES.txt)
+
+/home/xspuente/downloads/samtools-0.1.19/samtools view /mnt/nas1/STAR_out/T-ALL_nochr/1500648.Aligned.sortedByCoord.out.bam | awk '($3==9 && $4>=21802542 && $4<=21931646) || ($3==9 && $4>=21802635 && $4<=22032985)' >> hits.sam
+/home/xspuente/downloads/samtools-0.1.19/samtools view /mnt/nas1/STAR_out/T-ALL_nochr/1500648.Chimeric.sortedByCoord.out.bam | awk '($3==9 && $4>=21802542 && $4<=21931646) || ($3==9 && $4>=21802635 && $4<=22032985)' >> hits.sam

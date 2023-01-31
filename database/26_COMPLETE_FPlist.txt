@@ -1,0 +1,439 @@
+CHR	POS	DESCRIPTION
+1	28833900	False Positive
+1	28835100	False Positive
+1	53501400	Probably False Positive
+1	86398800	Probably False Positive
+1	91515200	False Positive
+1	91852900	False Positive
+1	153330800	False Positive
+1	153333100	False Positive
+1	153333200	False Positive
+1	153333300	False Positive
+1	153333400	False Positive
+1	153333500	False Positive
+1	153362900	False Positive
+1	178512000	Probably False Positive
+1	178620900	Probably False Positive
+1	249165600	Probably False Positive
+1	249165700	Probably False Positive
+2	20729400	Probably False Positive
+2	39281300	Probably False Positive
+2	39281400	Probably False Positive
+2	39281500	Probably False Positive
+2	39281600	Probably False Positive
+2	89156700	Ig Gene Rearrangement
+2	89156800	Ig Gene Rearrangement
+2	89157000	Ig Gene Rearrangement
+2	89157100	Ig Gene Rearrangement
+2	89160800	Ig Gene Rearrangement
+2	89160900	Ig Gene Rearrangement
+2	89384800	Ig Gene Rearrangement
+2	89442100	Ig Gene Rearrangement
+2	89442200	Ig Gene Rearrangement
+2	89442300	Ig Gene Rearrangement
+2	89442400	Ig Gene Rearrangement
+2	89442500	Ig Gene Rearrangement
+2	89442700	Ig Gene Rearrangement
+2	90154100	Ig Gene Rearrangement
+2	133012700	False Positive
+2	133013100	False Positive
+2	170933900	False Positive
+2	191763300	False Positive
+2	225796300	Probably False Positive
+3	17550000	False Positive
+3	40503500	Probably False Positive
+3	40503600	False Positive
+3	46477700	False Positive
+3	56765500	Probably False Positive
+3	56765600	Probably False Positive
+3	56765900	Probably False Positive
+3	106161000	False Positive
+3	128887800	Probably False Positive
+3	157920900	Probably False Positive
+3	160232900	False Positive
+4	86497500	False Positive
+4	177433800	Probably False Positive
+5	25909700	False Positive
+5	60241200	Probably False Positive
+5	74069700	False Positive
+5	96518600	Probably False Positive
+5	96767500	Probably False Positive
+5	115639200	Probably False Positive
+5	115781900	Probably False Positive
+6	118344000	Probably False Positive
+6	143158100	Probably False Positive
+6	143267100	Probably False Positive
+6	170871100	Probably False Positive
+7	97810300	False Positive
+7	129362100	False Positive
+7	142326800	TCR Gene Rearrangement
+7	142334200	TCR Gene Rearrangement
+7	142334600	TCR Gene Rearrangement
+7	142334700	TCR Gene Rearrangement
+7	142498700	TCR Gene Rearrangement
+7	142498800	TCR Gene Rearrangement
+7	142499100	TCR Gene Rearrangement
+7	147539100	Probably False Positive
+7	147539500	Probably False Positive
+7	147539600	Probably False Positive
+8	68852600	Probably False Positive
+8	70602300	False Positive
+9	35657700	False Positive
+9	35657800	False Positive
+9	35657900	False Positive
+9	90760100	Probably False Positive
+9	99169900	False Positive
+9	99170100	False Positive
+9	100675400	Probably False Positive
+10	70864200	False Positive
+11	47378300	Probably False Positive
+11	62609100	False Positive
+11	65272400	False Positive
+12	6619400	False Positive
+12	11324000	Probably False Positive
+12	11652900	Probably False Positive
+12	20704400	False Positive
+12	46781600	Probably False Positive
+12	47046200	Probably False Positive
+12	66935600	Probably False Positive
+12	67462900	Probably False Positive
+12	69747600	False Positive
+12	69747700	False Positive
+12	133084700	Probably False Positive
+12	133331600	Probably False Positive
+13	42040400	Probably False Positive
+14	20811200	False Positive
+14	20811300	False Positive
+14	20811400	False Positive
+14	20811500	False Positive
+14	22409700	TCR Gene Rearrangement
+14	22466300	TCR Gene Rearrangement
+14	23016500	TCR Gene Rearrangement
+14	106111000	Ig Gene Rearrangement
+14	106174800	False Positive
+14	106209100	Ig Gene Rearrangement
+14	106209300	Ig Gene Rearrangement
+14	106209400	Ig Gene Rearrangement
+14	106311700	Ig Gene Rearrangement
+14	106311800	Ig Gene Rearrangement
+14	106311900	Ig Gene Rearrangement
+14	106312000	Ig Gene Rearrangement
+14	106321800	Ig Gene Rearrangement
+14	106321900	Ig Gene Rearrangement
+14	106322000	Ig Gene Rearrangement
+14	106322100	Ig Gene Rearrangement
+14	106322200	Ig Gene Rearrangement
+14	106322300	Ig Gene Rearrangement
+14	106329200	Ig Gene Rearrangement
+14	106330000	Ig Gene Rearrangement
+14	106330300	Ig Gene Rearrangement
+14	106330400	Ig Gene Rearrangement
+14	106330600	Ig Gene Rearrangement
+14	106330700	Ig Gene Rearrangement
+14	106370600	Ig Gene Rearrangement
+14	106370700	Ig Gene Rearrangement
+14	106380400	Ig Gene Rearrangement
+14	106452700	Ig Gene Rearrangement
+14	106586100	Ig Gene Rearrangement
+14	106586200	Ig Gene Rearrangement
+14	106586300	Ig Gene Rearrangement
+14	106691800	Ig Gene Rearrangement
+14	106692100	Ig Gene Rearrangement
+14	106829600	Ig Gene Rearrangement
+14	106829800	Ig Gene Rearrangement
+14	106830000	Ig Gene Rearrangement
+14	106877600	Ig Gene Rearrangement
+14	106877700	Ig Gene Rearrangement
+14	107034700	Ig Gene Rearrangement
+14	107083400	Ig Gene Rearrangement
+14	107170000	Ig Gene Rearrangement
+14	107170100	Ig Gene Rearrangement
+14	107170300	Ig Gene Rearrangement
+15	26890600	False Positive
+15	26890700	False Positive
+15	45003700	False Positive
+15	45009800	False Positive
+15	45010200	False Positive
+19	16187400	Probably False Positive
+19	16437700	Probably False Positive
+20	35221200	Probably False Positive
+20	46279900	False Positive
+20	51872800	Probably False Positive
+20	52111500	Probably False Positive
+21	9827400	False Positive
+21	30969900	Probably False Positive
+21	31121200	Probably False Positive
+22	22186300	Probably False Positive
+22	23054900	Ig Gene Rearrangement
+22	23055600	Ig Gene Rearrangement
+22	23243300	Ig Gene Rearrangement
+X	64818600	False Positive
+X	64818700	False Positive
+X	106957900	False Positive
+1	12268400	Probably False Positive
+1	27181200	Probably False Positive
+1	36931800	False Positive
+1	145441900	Probably False Positive
+1	145442000	False Positive
+1	145442200	False Positive
+1	150548100	False Positive
+1	150548200	False Positive
+1	153330700	False Positive
+1	153330800	False Positive
+1	153330900	False Positive
+1	153333000	False Positive
+1	153333100	False Positive
+1	153333200	False Positive
+1	153333400	False Positive
+1	153362600	False Positive
+1	153362700	False Positive
+1	153362900	False Positive
+1	153517200	False Positive
+1	158815700	False Positive
+1	158817500	False Positive
+1	159888200	Probably False Positive
+1	161593100	False Positive
+1	161593200	False Positive
+1	161593600	False Positive
+1	161593700	False Positive
+1	161593800	False Positive
+1	161594000	False Positive
+1	161594400	False Positive
+1	192780600	False Positive
+1	198725400	False Positive
+1	198725700	False Positive
+1	249165600	Probably False Positive
+2	39281500	Probably False Positive
+2	70169000	False Positive
+2	89156900	Ig Gene Rearrangement
+2	89157000	Ig Gene Rearrangement
+2	89157100	Ig Gene Rearrangement
+2	89326700	Ig Gene Rearrangement
+2	89326800	Ig Gene Rearrangement
+2	89442100	Ig Gene Rearrangement
+2	89442200	Ig Gene Rearrangement
+2	89475900	Ig Gene Rearrangement
+2	89544300	Ig Gene Rearrangement
+2	89544400	Ig Gene Rearrangement
+2	144194500	Probably False Positive
+2	144276800	Probably False Positive
+2	144314000	Probably False Positive
+2	144461000	Probably False Positive
+2	144525600	Probably False Positive
+3	38183900	False Positive
+3	40503500	Probably False Positive
+3	128533200	False Positive
+4	185677200	False Positive
+5	25909600	Probably False Positive
+5	176929100	False Positive
+6	29913300	False Positive
+6	30457500	False Positive
+6	30460600	False Positive
+6	30460700	False Positive
+6	30460800	False Positive
+6	30460900	False Positive
+6	30461000	False Positive
+6	30461100	False Positive
+6	30461600	False Positive
+6	30461700	False Positive
+6	31236700	False Positive
+6	31321700	False Positive
+6	31321800	False Positive
+6	33268100	Probably False Positive
+6	160100400	False Positive
+6	160101000	False Positive
+6	160101300	False Positive
+6	160103100	False Positive
+7	7713000	Probably False Positive
+7	76823100	False Positive
+7	105890600	False Positive
+7	105891200	False Positive
+7	105891300	False Positive
+7	105891400	False Positive
+7	142001100	TCR Gene Rearrangement
+7	142008600	TCR Gene Rearrangement
+7	142008700	TCR Gene Rearrangement
+7	142021100	TCR Gene Rearrangement
+7	142021200	TCR Gene Rearrangement
+7	142021300	TCR Gene Rearrangement
+7	142045600	TCR Gene Rearrangement
+7	142045700	TCR Gene Rearrangement
+7	142099500	TCR Gene Rearrangement
+7	142131400	TCR Gene Rearrangement
+7	142180500	TCR Gene Rearrangement
+7	142197600	TCR Gene Rearrangement
+7	142239500	TCR Gene Rearrangement
+7	142326800	TCR Gene Rearrangement
+7	142326900	TCR Gene Rearrangement
+7	142334600	TCR Gene Rearrangement
+7	142334700	TCR Gene Rearrangement
+7	142239600	TCR Gene Rearrangement
+7	142247100	TCR Gene Rearrangement
+7	142353800	TCR Gene Rearrangement
+7	142364500	TCR Gene Rearrangement
+7	142498700	TCR Gene Rearrangement
+7	142498800	TCR Gene Rearrangement
+7	142498900	TCR Gene Rearrangement
+7	142499000	TCR Gene Rearrangement
+8	22976000	False Positive
+8	22979200	Probably False Positive
+8	23429100	False Positive
+8	56923500	False Positive
+8	56923700	False Positive
+8	101931700	False Positive
+9	93659500	False Positive
+10	28909200	False Positive
+10	36811900	False Positive
+10	36812100	False Positive
+10	70863700	False Positive
+10	70863800	False Positive
+10	70864100	False Positive
+10	70864200	False Positive
+10	70864300	False Positive
+10	70864400	False Positive
+10	73576100	False Positive
+10	73576200	False Positive
+10	73579500	False Positive
+10	73588700	False Positive
+11	65192500	False Positive
+11	65622400	False Positive
+11	99417800	Probably False Positive
+12	8072300	False Positive
+12	10269700	Probably False Positive
+12	10269800	Probably False Positive
+12	51636800	False Positive
+12	69747100	False Positive
+12	69747500	False Positive
+12	69747600	False Positive
+12	123467100	False Positive
+13	46700300	False Positive
+13	46700400	False Positive
+13	48835300	False Positive
+13	48835400	False Positive
+13	48835500	False Positive
+13	48835600	False Positive
+13	48835700	False Positive
+13	48835900	False Positive
+14	22090600	TCR Gene Rearrangement
+14	22111500	TCR Gene Rearrangement
+14	22111600	TCR Gene Rearrangement
+14	22111700	TCR Gene Rearrangement
+14	22180800	TCR Gene Rearrangement
+14	22180900	TCR Gene Rearrangement
+14	22192300	TCR Gene Rearrangement
+14	22192400	TCR Gene Rearrangement
+14	22205100	TCR Gene Rearrangement
+14	22217800	TCR Gene Rearrangement
+14	22237100	TCR Gene Rearrangement
+14	22265800	TCR Gene Rearrangement
+14	22294000	TCR Gene Rearrangement
+14	22309700	TCR Gene Rearrangement
+14	22309800	TCR Gene Rearrangement
+14	22315200	TCR Gene Rearrangement
+14	22321000	TCR Gene Rearrangement
+14	22337300	TCR Gene Rearrangement
+14	22337400	TCR Gene Rearrangement
+14	22356400	TCR Gene Rearrangement
+14	22356500	TCR Gene Rearrangement
+14	22356600	TCR Gene Rearrangement
+14	22363000	TCR Gene Rearrangement
+14	22386700	TCR Gene Rearrangement
+14	22386800	TCR Gene Rearrangement
+14	22392600	TCR Gene Rearrangement
+14	22409600	TCR Gene Rearrangement
+14	22409700	TCR Gene Rearrangement
+14	22434000	TCR Gene Rearrangement
+14	22434100	TCR Gene Rearrangement
+14	22447100	TCR Gene Rearrangement
+14	22447200	TCR Gene Rearrangement
+14	22466100	TCR Gene Rearrangement
+14	22466200	TCR Gene Rearrangement
+14	22476100	TCR Gene Rearrangement
+14	22476200	TCR Gene Rearrangement
+14	22476300	TCR Gene Rearrangement
+14	22509200	TCR Gene Rearrangement
+14	22509300	TCR Gene Rearrangement
+14	22520800	TCR Gene Rearrangement
+14	22521000	TCR Gene Rearrangement
+14	22521100	TCR Gene Rearrangement
+14	22521200	TCR Gene Rearrangement
+14	22539200	TCR Gene Rearrangement
+14	22539300	TCR Gene Rearrangement
+14	22554900	TCR Gene Rearrangement
+14	22555000	TCR Gene Rearrangement
+14	22564700	TCR Gene Rearrangement
+14	22564800	TCR Gene Rearrangement
+14	22573800	TCR Gene Rearrangement
+14	22580700	TCR Gene Rearrangement
+14	22580800	TCR Gene Rearrangement
+14	22592000	TCR Gene Rearrangement
+14	22592100	TCR Gene Rearrangement
+14	22616400	TCR Gene Rearrangement
+14	22631500	TCR Gene Rearrangement
+14	22631600	TCR Gene Rearrangement
+14	22631700	TCR Gene Rearrangement
+14	22671000	TCR Gene Rearrangement
+14	22690100	TCR Gene Rearrangement
+14	22690200	TCR Gene Rearrangement
+14	22694900	TCR Gene Rearrangement
+14	22740200	TCR Gene Rearrangement
+14	22740300	TCR Gene Rearrangement
+14	22749400	TCR Gene Rearrangement
+14	22749500	TCR Gene Rearrangement
+14	22788800	TCR Gene Rearrangement
+14	23016400	TCR Gene Rearrangement
+14	23016500	TCR Gene Rearrangement
+14	23016600	TCR Gene Rearrangement
+14	23016700	TCR Gene Rearrangement
+14	90863500	Probably False Positive
+14	106322100	Ig Gene Rearrangement
+14	106322200	Ig Gene Rearrangement
+14	106452700	Ig Gene Rearrangement
+14	106478200	Ig Gene Rearrangement
+14	106494300	Ig Gene Rearrangement
+14	106610400	Ig Gene Rearrangement
+14	106805200	Ig Gene Rearrangement
+14	106805300	Ig Gene Rearrangement
+14	106805400	Ig Gene Rearrangement
+14	106829600	Ig Gene Rearrangement
+14	106877600	Ig Gene Rearrangement
+14	106877700	Ig Gene Rearrangement
+14	107034700	Ig Gene Rearrangement
+14	107034800	Ig Gene Rearrangement
+14	107034900	Ig Gene Rearrangement
+14	107178800	Ig Gene Rearrangement
+15	45003800	False Positive
+15	45007700	False Positive
+15	45007800	False Positive
+15	45007900	False Positive
+15	45009800	False Positive
+15	45009900	False Positive
+15	45010000	False Positive
+15	45010100	False Positive
+15	45010200	False Positive
+15	91045100	Probably False Positive
+16	11642000	False Positive
+16	31393800	False Positive
+17	29631300	False Positive
+17	29631600	False Positive
+17	62495800	False Positive
+17	73774400	False Positive
+19	10754000	False Positive
+19	16187300	Probably False Positive
+19	16437700	Probably False Positive
+19	49468800	False Positive
+19	52250000	False Positive
+19	54378900	False Positive
+22	22677100	Ig Gene Rearrangement
+22	22677200	Ig Gene Rearrangement
+22	23237600	Ig Gene Rearrangement
+22	23237800	Ig Gene Rearrangement
+22	39358600	False Positive
+22	39358800	False Positive
+22	39358900	False Positive
+X	12995000	False Positive
+X	23803000	False Positive
+X	64818600	Probably False Positive
+X	64818700	Probably False Positive
+X	106956600	False Positive
+X	106956900	False Positive

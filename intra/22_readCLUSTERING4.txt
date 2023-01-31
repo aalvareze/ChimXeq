@@ -1,0 +1,1 @@
+awk '\$8!="MATCHINGinPSEUDOGENE"' ../Output_readCLUSTERING_3.txt > ../Output_readCLUSTERING_4.txt

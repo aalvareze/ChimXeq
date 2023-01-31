@@ -1,0 +1,1 @@
+awk '\$6>=2 && \$7>=2' ../Output_readCLUSTERING_1.txt > ../Output_readCLUSTERING_1_min2.txt

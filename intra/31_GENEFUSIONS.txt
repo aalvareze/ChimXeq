@@ -1,0 +1,1 @@
+awk '\$4>=1' ../Output_non-reiterFUSIONS.txt > ../Output_CHIMERIC_GENE_FUSIONS.txt

@@ -1,0 +1,1 @@
+fgrep -f ../Output_IDsPAIREDREADS_2.txt ../Output_POLYFILTER.txt > ../Output_PAIREDREADS_2.txt

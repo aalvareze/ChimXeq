@@ -1,0 +1,4 @@
+/usr/bin/bowtie-align-s --wrapper basic-0 -f -a --best --strata -S /data/human_ref/hg19/hg19sorted.fa anchors.fa > anchors.map
+/usr/bin/bowtie-align-s -f -n 0 -a -S /data/human_ref/hg19/hg19sorted.fa anchors.fa > anchors.map
+
+> /usr/bin/bowtie-align-s -f -n 0 -S /data/human_ref/hg19/hg19sorted.fa anchors.fa > anchors.map
